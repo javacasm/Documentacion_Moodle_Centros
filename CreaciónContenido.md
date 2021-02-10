@@ -26,3 +26,26 @@ Cuando editamos contenido, por defecto vemos las herramientas de edición básic
 Si queremos usar más opciones como por ejemplo cambio de colo o editores más complejos (como el de ecuaciones), podemos hacer que se muestren las barras de herramientas expandidas  Pulsando el primer botón
 
 ![](./images/EdicionBarraExtendida.png)
+
+## Borrado -> a la papelera
+
+Si por error borramos algunos contenidos, podemos recuperarlos desde la papelera. Accedemos desde el menú lateral de ajustes
+
+![](./images/Papelera.png)
+
+Veremos los ficheros borradas hace menos de 7 días
+
+![](./images/ficherosBorrados.png)
+
+Pulsamos sobre el incono de la flecha para restaurar cada fichero
+
+Si queremos borrarlo definitivamente pulsaremos sobre la papelera y **ya no podremos recuperarlo**
+
+Lo componentes recuperados volerán a aparecer en el lugar que estuvieran, salvo que se haya borrado la pestaña o el tema el que estuvieran que saldrán el primer tema o pestaña.
+
+## Movimiento de recursos/actividades
+
+Al activar la edición, aparecerá un icono con forma de cruz de flechas con el que podremos mover los recursos/actividades entre los componentes de la página.
+
+Si tenemos activada la visualización con pestañas, podemos mover elementos entre ellos activando la opción "Acciones de edición asíncronas" de las "Utilidades de edición de pestañas"
+
