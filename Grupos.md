@@ -13,3 +13,7 @@ Donde veremos los grupos ya creados, con sus correspondientes participantes.
 Desde aquí podemos editarlos añadiendo o quitanto integrantes.
 
 ![](./images/EdicionGrupos.png)
+
+Desde la vista de participantes también podemos modificar los grupos a los que pertener uno dado
+
+![](./images/EdidionGrupos.png)
