@@ -24,3 +24,5 @@ Las preguntas se almacenan en bancos de preguntas que permiten su reutilización
 
 
 ## Importación y exportación de preguntas
+
+## Ver los intentos
