@@ -14,7 +14,9 @@
 
 [Video tutorial en eAprendizaje](https://www.juntadeandalucia.es/educacion/eaprendizaje/moodle-centros/)
 
-[Iniciación al uso de la plataforma Moodle Centros](https://www.youtube.com/playlist?list=PLJkk1L3HGsMkDH_7aLVrPws569XHIgqsi)
+[AVFP 147. USO DE LA PLATAFORMA MOODLE CENTROS (INICIACIÓN)](https://www.youtube.com/playlist?list=PLJkk1L3HGsMkDH_7aLVrPws569XHIgqsi)
+
+[AVFP 208. USO DE LA PLATAFORMA MOODLE CENTROS (PROFUNDIZACIÓN)](https://www.youtube.com/playlist?list=PLJkk1L3HGsMmMXRFM0qIRuXPI4NF7xo-c)
 
 [Uso de la plataforma Moodle Centros](https://www.youtube.com/playlist?list=PLJkk1L3HGsMkBqY_g9xD6to-YFka86alc)
 
@@ -29,3 +31,4 @@
 [videotutoriales de Adrián Matas sobre Moodle Centros](https://blogsaverroes.juntadeandalucia.es/moodlecentrosparaprofes/2020/07/29/acceso-a-moodle/)
 
 [Tutoriales sobre Moodle de Aelandro Bellerin](https://tutorialesmoodlecentros.blogspot.com/)
+
